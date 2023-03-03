@@ -241,3 +241,48 @@ Taking the approximate section to calculate self-weight as trapezium the volume 
 <br>
 <h3>Basic Guidelines For Conducting The Experiment</h3>
 <br>
+The beam section shown below is prepared for casting and conducting the experiment-
+Dimensions of the beam = (2000x150x200)mm<sup>3</sup>      (LengthxBreadthxDepth)
+Cover is the distance between the directly exposed concrete surface to the nearest reinforcement bar. Cover blocks are provided at either side of the beam that provide protection to the reinforcement cage. The cover provided in our experiment is about 25mm.
+Before casting the beam, the reinforcement cage is prepared after necessary calculations. The cage and cover blocks are then placed in the casting mould. The mould is then filled with concrete and finished using a vibration machine and other necessary equipment. The casted beam is then allowed to dry and strengthen for 28 days. The cube and concrete beam specimens are also casted along with the Beam without shear reinforcement. 
+Before starting the experiment, some additional information is required from various other experiments. The properties and their requirements are listed below-
+<ul>
+<li>
+Compressive Strength of Concrete(f<sub>cm</sub>)
+<br>
+This property of concrete is obtained from the “Compressive Test of Concrete (Cube)” experiment. This property is used while calculating the predicted value of Shear Strength of RC beam. (Refer to Table 19)
+
+Material to be casted: 3 Concrete Cube specimen (150x150x150) mm<sup>3</sup>
+</li>
+</ul>
+After 28 days, the beam and other concrete specimens are tested for their respective properties. The detailed procedure for UR beam testing is given in the Procedure section. 
+
+Instrumentation in RC beam before testing:
+<ul>
+<li>Load cell is connected to the hydraulic jet to apply and measure load on the beam.</li>
+<li>The beam is tested using a four point loading setup.</li>
+</ul>
+<br>
+<h4>Recommended Beam Section</h3>
+<br>
+<br>
+<div align="center"><img src="images/fig17.png"></div>
+<br>
+<div align="center"><img src="images/fig18.png"></div>
+<br>
+The recommended beam section includes the following:
+<ul>
+<li>Beam dimensions: 2000*200*150 mm (L*b*D)</li>
+<li>The tension reinforcement includes 3 bars of 12mm diameter. The steel used is Fe500 and M25 but the measured values of the same are reported in experiment, “Compressive Strength of Concrete (Cube)” and “Tensile Strength of Reinforcement Steel”.</li>
+<li>The compression reinforcement includes 2 bars of 8mm diameter.</li>
+<li>The stirrups are provided at the four points, two points where the load is provided and two supports.</li>
+<li>L = 2000</li>
+<li>L' = 1800</li>
+<li>b = 150</li>
+<li>D = 200</li>
+<li>Cover = 25</li>
+<li>d = 169</li>
+<li>A<sub>st</sub> = 3 - 12φ</li>
+<li>f<sub>ck</sub> = 25 MPa</li>
+<li>f<sub>y</sub> = 500 MPa</li>
+</ul>
