@@ -1,16 +1,40 @@
 [{
-	"question": "1.This is a sample question:",
+	"question": "1.Maximum shear stress for M20 concrete is:",
 	"answers": {
-		"a": "This is a sample answer A",
-		"b": "This is a sample answer B"
-	},
-	"correctAnswer": "a"
-}, {
-	"question": "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",
-	"answers": {
-		"a": "<img src='images/1b.png'>",
-		"b": "<img src='images/1a.png'>",
-		"c": "<img src='images/1c.PNG'>"
+		"a": "1.8",
+		"b": "2.4",
+		"c": "2.8",
+		"d": "3.4"
 	},
 	"correctAnswer": "c"
+},
+{
+	"question": "2.Shear reinforcement is needed to prevent propagation of:",
+	"answers": {
+		"a": "Flexual cracks",
+		"b": "Dowel cracks",
+		"c": "Diagonal cracks",
+		"d": "Splitting cracks"
+	},
+	"correctAnswer": "c"
+},
+{
+	"question": "3.An RC beam of rectangular cross-section having width 285mm and an effective depth of 388mm is provided with shear reinforcement. The maximum spacing of vertical shear stirrups:",
+	"answers": {
+		"a": "291 mm",
+		"b": "300 mm",
+		"c": "388 mm",
+		"d": "285 mm"
+	},
+	"correctAnswer": "a"
+},
+{
+	"question": "4.As per IS 456-2000 the maximum permissible shear stress τc max is based on:",
+	"answers": {
+		"a": "Diagonal tension failure",
+		"b": "Diagonal compression failure",
+		"c": "Flexural tension failure",
+		"d": "flexural compression failure"
+	},
+	"correctAnswer": "b"
 }]
