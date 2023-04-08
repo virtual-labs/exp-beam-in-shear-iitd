@@ -7,22 +7,23 @@ From basic mechanics of material we know, that the flexural (normal) stress f<su
 <br>
 where I is the second moment of area of the section about the neutral axis, Q the first moment of area about the neutral axis of the portion of the section above the layer at distance y from the neutral axis , and b is the width of the beam at the layer at which τ is calculated. The variation of shear stress is parabolic, with a maximum value at the neutral axis and zero values at the top and bottom of the section.
 <br>
-<div align="center"><img src="images/fig3.png"></div>
+<div align="center"><img src="images/fig3.png">
+<b>Fig. 1: Element of an RC beam under uniform loading</b></div>
 <br>
-<div align="center"><img src="images/fig4.png"></div>
+<div align="center"><img src="images/fig4.png"><b>Fig. 2: Distribution of shear force induced in beam cross-section due to uniform loading.</b></div>
 <br>
 Consider an element at a distance y from the neutral axis and neglecting any possible vertical normal stress f<sub>y</sub> caused by the surface loads, the combined flexural and shear stresses can be resolved into equivalent principal stresses f<sub>1</sub> and f<sub>2</sub> acting on orthogonal planes, inclined at an angle α to the beam axis (as shown):
 <br>
-<div align="center"><img src="images/fig5.png"></div>
+<div align="center"><img src="images/fig5.png"><b>Fig. 3: Principal stresses induced in beam element due to combination of shear and tensile forces</b></div>
 <br>
 <div align="center"><img src="images/fig6.png"></div>
 <br>
 The values of forces f1 and f2 are given by the equation above considering the former to be tensile force and the latter to be compressive force. The relative values of f<sub>1</sub> and f<sub>2</sub> depend on the magnitudes of f<sub>x</sub> and τ and also the angle α. A condition of pure sheer occurs for the elements at the neutral axis (where τ is maximum and f<sub>x</sub> = 0), whereby f<sub>1</sub> = f<sub>2</sub> = τ<sub>max</sub> and α = 45◦. The stress pattern is indicated in the figure below:
 
 <br>
-<div align="center"><img src="images/fig7.png"></div>
+<div align="center"><img src="images/fig7.png"><b>Fig. 4: Principal Stress Trajectories</b></div>
 <br>
-<div align="center"><img src="images/fig8.png"></div>
+<div align="center"><img src="images/fig8.png"><b>Fig. 5: Crack distribution on beam </b></div>
 <br>
 <h4>Types of Cracks</h4>
 <br>
@@ -30,7 +31,7 @@ In general, in a beam under flexure and shear, a biaxial state of combined tensi
 Sometimes, the inclined crack propagates along the tension reinforcement towards the support. Such cracks are referred to as secondary cracks or splitting cracks. These are attributed to the wedging action of the tension bar deformations. 
 In short−span beams which are relatively deep and have thin webs and are subjected to high shear stresses τ (due to concentrated loads) and relatively low flexural stresses f<sub>x</sub>, it is likely that the maximum principal tensile stress is located at the neutral axis level at an inclination α = 45◦ (to the longitudinal axis) the resulting cracks are termed web shear cracks or diagonal tension cracks.
 <br>
-<div align="center"><img src="images/fig9.png"></div>
+<div align="center"><img src="images/fig9.png"><b>Fig. 6: Types of crack in a RC beam</b></div>
 <br>
 <h4>Design Approach of IS-456 ( 2000 ) </h4>
 <br>
@@ -216,16 +217,16 @@ The following figure shows the loading induced in the RC beam. The setup used is
 <div align="center"><img src="images/fig11.png"></div>
 <br>
 <div align="center"><img src="images/fig12.png"></div>
-<div align="center">Fig 8: Shear Force Diagram and Bending Moment Diagram for Four-Point Loading Setup</div>
+<div align="center"><b>Fig 8: Shear Force Diagram and Bending Moment Diagram for Four-Point Loading Setup</b></div>
 
 We first note down the load at which the shear crack appears which spans along the entire depth of the beam as shown in the Fig. 1. For the calculation we approximate a linear crack (Fig. 2) and note the distance from the central line. The formula used for calculating the shear force due to which the crack was developed is as follows:
 
 <br>
-<div align="center"><img src="images/fig13.png"></div>
+<div align="center"><img src="images/fig13.png"><b>Fig. 9: Cracked section at failure</b></div>
 <br>
-<div align="center"><img src="images/fig14.png"></div>
+<div align="center"><img src="images/fig14.png"><b>Fig. 10: Section considered for calculating shear force at failure due to applied load and self-weight </b></div>
 <br>
-<div align="center"><img src="images/fig15.png"></div>
+<div align="center"><img src="images/fig15.png"><b></b></div>
 <br>
 <div align="center">Fig 9: Method of Calculating Effective Area contributing to shear force in RC Beam at Failure </div>
 <br>
@@ -268,7 +269,7 @@ Instrumentation in RC beam before testing:
 <br>
 <div align="center"><img src="images/fig17.png"></div>
 <br>
-<div align="center"><img src="images/fig18.png"></div>
+<div align="center"><img src="images/fig18.png"><b>Fig. 12: Recommended Beam Section</b></div>
 <br>
 The recommended beam section includes the following:
 <ul>
