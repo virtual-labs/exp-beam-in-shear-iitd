@@ -1,34 +1,28 @@
 <h3>Procedure</h3>
 <br>
 <ol>
-<li>Place the beam on the loading frame</li>
-<li>Measure and note the depth (D), width (w) and length (L) of the beam before starting the experiment. </li>
-<li>Measure and note the distance between the loading points and supports.</li>
-<li>Apply the load with uniform increment in the load using a hydraulic jet. Apply the load slowly and steadily.</li>
-<li>As the cracks appear on the beam, stop increasing the load and mark the cracks.</li>
-<li>Repeat step 5 at least for 3 different loads</li>
-<li>Increase the load till the failure occurs and then note the failure load.</li>
-<li>Then stop the loading when the failure crack appears which spreads across the width of the beam.</li>
+<li>Place the beam on the loading frame.</li>
+<li>Measure the depth (D), width (w) and length (L) of the beam. </li>
+<li>Measure the distance between the loading points and supports.</li>
+<li>Apply the load. Apply the load slowly and steadily.</li>
+<li>Increase the load till the failure occurs and note the failure load.</li>
 </ol>
 
 <br>
 <h3>Observations and Calculations</h3>
-<br>
 <ol>
 <li>Grade of concrete (f<sub>ck</sub>)                               =</li>
-<li>Mean compressive strength of concrete (f<sub>cm</sub>)           =</li>
 <li>Grade of steel (f<sub>y</sub>)                                   =</li>
-<li>Mean Yield strength of steel(f<sub>ym</sub>)                     =</li>
-<li>Area of tension steel(A<sub>st</sub>)                            =</li>
-<li>Length of Beam Between Supports(L’/3)                 =</li>
-<li>Depth of Beam(D)                                      =</li>
-<li>Width of Beam(b)                                      =</li>
+<li>Area of tension steel (A<sub>st</sub>)                            =</li>
+<li>Length of Beam Between Supports (L’)                 =</li>
+<li>Depth of Beam (D)                                      =</li>
+<li>Width of Beam (b)                                      =</li>
 <li>Effective depth of beam (d)                           =</li>
-<li>Length of crack from support(a)                       =</li>
+<li>Location of crack from support (L<sub>b</sub>)                       =</li>
 </ol>
 
 <br>
-Predicted value of shear strength (V<sub>pred</sub>)(refer to Table 19, Theory)= 
+Predicted value of shear strength (V<sub>pred</sub>)(refer to Table 19 of IS:456)= 
 Taking:
 <ol>
 <li>Failure Load : P</li>
