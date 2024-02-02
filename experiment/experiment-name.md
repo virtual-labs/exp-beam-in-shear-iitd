@@ -1,1 +1,1 @@
-## Shear Strength Of Reinforced Concrete Beam
+## Shear Strength of Reinforced Concrete Beam
