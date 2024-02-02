@@ -29,7 +29,7 @@
 	"correctAnswer": "a"
 },
 {
-	"question": "4.As per IS 456-2000 the maximum permissible shear stress τc max is based on:",
+	"question": "4.As per IS 456-2000 the maximum permissible shear stress τc,max is based on:",
 	"answers": {
 		"a": "Diagonal tension failure",
 		"b": "Diagonal compression failure",
