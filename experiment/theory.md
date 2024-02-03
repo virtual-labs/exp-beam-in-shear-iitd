@@ -1,15 +1,15 @@
 Bending moment in Reinforced Concrete (RC) is accompanied by transverse shear forces, axial forces and torsion. The RC beam is thus designed for the ultimate limit state in flexural shear, i.e. shear associated with varying bending moment. Failure of a reinforced concrete beam in flexural shear often may not lead to an immediate collapse by itself. However, it can significantly reduce flexural strength (moment−bearing capacity) as well as ductility. Hence, the state of (impending) shear failure is treated by the Code as an ultimate limit state (i.e., limit state of collapse) for design purposes. The behavior of RC under shear (flexural shear alone or in combination with torsion and axial forces) is very complex ⎯ mainly because of its non-homogeneity, presence of cracks and reinforcement, and the nonlinearity in its material response.
 From basic mechanics of material we know, that the flexural (normal) stress f<sub>x</sub> the shear stress τ at any point in the section, located at a distance y from the neutral axis, are given by:
 <br>
-<div align="center"><img src="images/fig1.png"></div>
+<div align="center">f<sub>x</sub> = <sup>My</sup>&frasl;<sub>I</sub></div>
 <br>
-<div align="center"><img src="images/fig2.png"></div>
+<div align="center">τ = <sup>VQ</sup>&frasl;<sub>Ib</sub></div>
 <br>
 where I is the second moment of area of the section about the neutral axis, Q the first moment of area about the neutral axis of the portion of the section above the layer at distance y from the neutral axis , and b is the width of the beam at the layer at which τ is calculated. The variation of shear stress is parabolic, with a maximum value at the neutral axis and zero values at the top and bottom of the section.
 <br>
-<div align="center"><img src="images/fig3.png"><b>Fig. 1: Element of an RC beam under uniform loading</b></div>
+<div align="center"><img src="images/fig3.png"><b><br>Fig. 1: Element of an RC beam under uniform loading</b></div>
 <br>
-<div align="center"><img src="images/fig4.png"><b>Fig. 2: Distribution of shear force induced in beam cross-section due to uniform loading.</b></div>
+<div align="center"><img src="images/fig4.png"><b><br>Fig. 2: Distribution of shear force induced in beam cross-section due to uniform loading.</b></div>
 <br>
 Consider an element at a distance y from the neutral axis and neglecting any possible vertical normal stress f<sub>y</sub> caused by the surface loads as shown in Fig. 1 and 2. Then, the combined flexural and shear stresses can be resolved into equivalent principal stresses f<sub>1</sub> and f<sub>2</sub> acting on orthogonal planes, inclined at an angle α to the beam axis as shown in Fig. 3.
 <br>
