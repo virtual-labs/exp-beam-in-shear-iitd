@@ -13,6 +13,7 @@
 <ol>
 <li>Grade of concrete (f<sub>ck</sub>)                               =</li>
 <li>Grade of steel (f<sub>y</sub>)                                   =</li>
+<li>Density of concrete (ρ)                                   =</li>
 <li>Area of tension steel (A<sub>st</sub>)                            =</li>
 <li>Length of beam between aupports (L’)                 =</li>
 <li>Depth of beam (D)                                      =</li>
@@ -25,38 +26,31 @@
 </ol>
 
 <br>
-<h3>Predicted value of load at failure, V<sub>pred</sub>  (refer to Table 19 of IS:456-2000)</h3>
+<h4>Predicted value of load at failure, V<sub>pred</sub>  (refer to Table 19 of IS:456-2000)</h4>
 <li>τ<sub>v</sub> = </li>
 <li>d = </li>
 <li>b = </li>
 <li>V<sub>pred</sub> =</li> 
 
-<h3>Observed value of load at failure, V<sub>obs</sub></h3>
+<h4>Observed value of load at failure, V<sub>obs</sub></h4>
 <li>P = </li>
 <li>D = </li>
 <li>b = </li>
 <li>L<sub>b</sub> = </li>
-<li>V<sub>obs</sub> = P/2 + L<sub>b</sub>bD</li>
+<li>V<sub>obs</sub> = P/2 + ρL<sub>b</sub>bD</li>
 
-<h3>Factor of safety (FOS)</h3>
+<h4>Factor of safety (FOS)</h4>
 The FOS is defined as the ratio of V<sub>obs</sub> and V<sub>pred</sub>.
 <li>FOS = V<sub>obs</sub> / V<sub>pred</sub> = </li>
-
 <br>
-<h4>Results</h4>
-<ol>
-<li>The Factor of Safety in the experiment is :</li>
-<li>Beam diagram for the cracked beam section along with proper dimensions:</li>
-</ol>
-<br>
-<h4>Precautions</h4>
+<h3>Precautions</h3>
 <ol>
 <li>Before casting, ensure the beam section is without shear reinforcements and under reinforced.</li>
 <li>Mix design calculations before preparing concrete for casting should be accurate.</li>
 <li>Ensure compaction of the beam is done properly, to obtain accurate test results.</li>
 <li>Testing must be done after a minimum of 28 days.</li>
 <li>Before testing the beam, check if the load cell and hydraulic jet are functioning properly.</li>
-<li>Wear safety helmets while marking the cracks on the beam.</li>
+<li>Wear safety helmet and shoes while performing the experiment.</li>
 
 </ol>
 <br>
