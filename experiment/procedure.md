@@ -2,7 +2,7 @@
 <br>
 <ol>
 <li>Place the beam on the loading frame.</li>
-<li>Measure the depth (D), width (w) and length (L) of the beam. </li>
+<li>Measure the depth (D), width (b) and length (L) of the beam. </li>
 <li>Measure the distance between the loading points and supports.</li>
 <li>Apply the load. Apply the load slowly and steadily.</li>
 <li>Increase the load till the failure occurs and note the failure load.</li>
@@ -18,11 +18,13 @@
 <li>Depth of Beam (D)                                      =</li>
 <li>Width of Beam (b)                                      =</li>
 <li>Effective depth of beam (d)                           =</li>
+<li>Location of crack from support (L<sub>a</sub>)                       =</li>
+<li>Location of crack from support (L<sub>c</sub>)                       =</li>
 <li>Location of crack from support (L<sub>b</sub>)                       =</li>
 </ol>
 
 <br>
-Predicted value of shear strength (V<sub>pred</sub>)(refer to Table 19 of IS:456)= 
+Predicted value of shear strength (V<sub>pred</sub>)(refer to Table 19 of IS:456-2000)= 
 Taking:
 <ol>
 <li>Failure Load : P</li>
