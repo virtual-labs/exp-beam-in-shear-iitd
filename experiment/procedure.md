@@ -14,29 +14,33 @@
 <li>Grade of concrete (f<sub>ck</sub>)                               =</li>
 <li>Grade of steel (f<sub>y</sub>)                                   =</li>
 <li>Area of tension steel (A<sub>st</sub>)                            =</li>
-<li>Length of Beam Between Supports (L’)                 =</li>
-<li>Depth of Beam (D)                                      =</li>
-<li>Width of Beam (b)                                      =</li>
+<li>Length of beam between aupports (L’)                 =</li>
+<li>Depth of beam (D)                                      =</li>
+<li>Effective depth of beam (D)                                      =</li>
+<li>Width of beam (b)                                      =</li>
 <li>Effective depth of beam (d)                           =</li>
 <li>Location of crack from support (L<sub>a</sub>)                       =</li>
 <li>Location of crack from support (L<sub>c</sub>)                       =</li>
-<li>Location of crack from support (L<sub>b</sub>)                       =</li>
+<li>Failure load (P)                       =</li>
 </ol>
 
 <br>
-Predicted value of shear strength (V<sub>pred</sub>)(refer to Table 19 of IS:456-2000)= 
-Taking:
-<ol>
-<li>Failure Load : P</li>
-<li>Overall depth of beam : D</li>
-<li>Breadth of Beam : b</li>
-</ol>
-Taking the approximate section to calculate self-weight as trapezium the volume of the same is:
-<br>
-<div align="center"><img src="images/fig18.png"></div>
-<br>
-Comparing the two values gives us the factor of safety (FOS). The Factor of safety is defined as the ratio of V<sub>obs</sub> and V<sub>pred</sub>.
-FOS = V<sub>obs</sub> / V<sub>pred</sub>
+<h3>Predicted value of load at failure, V<sub>pred</sub>  (refer to Table 19 of IS:456-2000)</h3>
+<li>τ<sub>v</sub> = </li>
+<li>d = </li>
+<li>b = </li>
+<li>V<sub>pred</sub> =</li> 
+
+<h3>Observed value of load at failure, V<sub>obs</sub></h3>
+<li>P = </li>
+<li>D = </li>
+<li>b = </li>
+<li>L<sub>b</sub> = </li>
+<li>V<sub>obs</sub> = P/2 + L<sub>b</sub>bD</li>
+
+<h3>Factor of safety (FOS)</h3>
+The FOS is defined as the ratio of V<sub>obs</sub> and V<sub>pred</sub>.
+<li>FOS = V<sub>obs</sub> / V<sub>pred</sub> = </li>
 
 <br>
 <h4>Results</h4>
