@@ -1,0 +1,40 @@
+[{
+	"question": "1.As per IS:456, the value of shear strength of concrete (τ) is a function of - ",
+	"answers": {
+		"a": "Concrete grade",
+		"b": "Percentage of tension steel(100*A<sub>st</sub>/bd)",
+		"c": "Yield strength of tension steel",
+		"d": "Both concrete grade and percentage of tension steel"
+	},
+	"correctAnswer": "a"
+},
+{
+	"question": "2.In a four pointing loading setup, which type of loading is middle part of the beam subjected to ?",
+	"answers": {
+		"a": "Shear force only",
+		"b": "Bending moment only",
+		"c": "Both bending moment and shear force",
+		"d": "Axial forces"
+	},
+	"correctAnswer": "b"
+},
+{
+	"question": "3.What type of cracks are observed in the beam portion subjected to shear force in the four-point loading test ?",
+	"answers": {
+		"a": "Bending cracks only",
+		"b": "Shear cracks only",
+		"c": "No cracks will be observed",
+		"d": "Both bending and shear cracks"
+	},
+	"correctAnswer": "d"
+},
+{
+	"question": "4.Two rectangular reinforced concrete sections X and Y are similar in all aspects except the longitudinal tension reinforcement in section Y is 10% more. Which one of the following statements is correct ?",
+	"answers": {
+		"a": "Section X has more shear strength ",
+		"b": "Section Y has more shear strength ",
+		"c": "Section X and Y have equal shear strength ",
+		"d": "Cannot conclude with the given data"
+	},
+	"correctAnswer": "b"
+}]
